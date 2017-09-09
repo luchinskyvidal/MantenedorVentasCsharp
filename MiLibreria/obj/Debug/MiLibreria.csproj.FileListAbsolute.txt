@@ -1,0 +1,5 @@
+E:\codigosc#\MantenedorVentasCsharp\MiLibreria\bin\Debug\MiLibreria.dll
+E:\codigosc#\MantenedorVentasCsharp\MiLibreria\bin\Debug\MiLibreria.pdb
+E:\codigosc#\MantenedorVentasCsharp\MiLibreria\obj\Debug\MiLibreria.csprojResolveAssemblyReference.cache
+E:\codigosc#\MantenedorVentasCsharp\MiLibreria\obj\Debug\MiLibreria.dll
+E:\codigosc#\MantenedorVentasCsharp\MiLibreria\obj\Debug\MiLibreria.pdb

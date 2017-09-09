@@ -1,0 +1,29 @@
+c:\users\luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MantenedorVentasCsharp.exe.config
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MantenedorVentasCsharp.exe
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MantenedorVentasCsharp.pdb
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Form1.resources
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Properties.Resources.resources
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.csproj.GenerateResource.Cache
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.exe
+C:\Users\Luchinsky\documents\visual studio 2015\Projects\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.pdb
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MantenedorVentasCsharp.exe.config
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.exe
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.pdb
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MantenedorVentasCsharp.exe
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MantenedorVentasCsharp.pdb
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MiLibreria.dll
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\bin\Debug\MiLibreria.pdb
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.csprojResolveAssemblyReference.cache
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Properties.Resources.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.csproj.GenerateResource.Cache
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Login.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.ventanaAdmin.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.ventanaUser.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.FormBase.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Consultas.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.ContenedorPrincipal.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Mantenimiento.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.Procesos.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.MantenimientoProductos.resources
+E:\codigosc#\MantenedorVentasCsharp\MantenedorVentasCsharp\obj\Debug\MantenedorVentasCsharp.MantenimientoCliente.resources
